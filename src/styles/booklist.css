@@ -1,0 +1,88 @@
+
+ .bk1 {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    padding-left: 10px;
+    justify-content: space-around;
+  }
+.head h1:hover{
+    color:rgb(4, 117, 255);
+
+}
+.bookdata{
+    /* border: 1px solid black; */
+    margin-bottom: 30px;
+    /* background-color: #d26767c5; */
+}
+.bookdata img:hover{
+    filter: blur(3px);
+    transition: all 0.2s; 
+}
+.head h1{
+    text-align: center;
+}
+.img {
+   background-color: black;
+   cursor: pointer;
+}
+.text{
+    border: 1px solid black;
+    color: white;
+    background-color:  rgb(4, 117, 255);
+}
+.bookdata:hover .text{
+    animation: bounceIn 1s 1;
+    opacity: 1;
+}
+@keyframes bounceIn {
+	0%,
+	20%,
+	40%,
+	60%,
+	80%,
+	to {
+		-webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+		animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+	}
+	0% {
+		opacity: 0;
+		/* -webkit-transform: scale3d(0.3, 0.3, 0.3); */
+		transform: scale3d(0.3, 0.3, 0.3);
+	}
+	20% {
+		/* -webkit-transform: scale3d(1.03, 1.03, 1.03); */
+		transform: scale3d(1.03, 1.03, 1.03);
+	}
+	40% {
+		/* -webkit-transform: scale3d(0.9, 0.9, 0.9); */
+		transform: scale3d(0.9, 0.9, 0.9);
+	}
+	60% {
+		opacity: 1;
+		/* -webkit-transform: scale3d(1.01, 1.01, 1.01); */
+		transform: scale3d(1.01, 1.01, 1.01);
+	}
+	80% {
+		/* -webkit-transform: scale3d(0.97, 0.97, 0.97); */
+		transform: scale3d(0.97, 0.97, 0.97);
+	}
+	to {
+		opacity: 1;
+		/* -webkit-transform: scaleX(1); */
+		transform: scaleX(1);
+	}
+}
+.btn-2{
+    border: 1px solid black;
+    background-color: white;
+}
+.btn-2 a{
+    color: black;
+}
+.btn-2 a:hover{
+    color: black;
+}
+.btn-2 button{
+    background-color: white;
+}

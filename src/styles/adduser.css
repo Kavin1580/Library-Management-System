@@ -1,0 +1,42 @@
+.user-home{
+  background-image: url("https://wallpaperaccess.com/full/140257.jpg");
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.user {
+    width: 300px;
+    background-size: cover;
+    height: 280px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+  }
+  
+  input {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+.user button {
+    padding: 8px;
+    color: #000000;
+    font-size: 16px;
+    background-color: rgb(4, 117, 255);
+    width: 50%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+.user button:hover {
+    background-color: #fbff00;
+  }

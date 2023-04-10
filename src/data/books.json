@@ -1,0 +1,122 @@
+{
+    "books":[
+        { 
+          "id": "001",
+          "author": "Geoff Johns",
+          "imageLink": "https://th.bing.com/th/id/R.ae84b919fd6f9fc32def63cb8d0661e0?rik=wC3vEj1OWcjaUg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-0iikmw88L-k%2fUZ7MEUEAUvI%2fAAAAAAAAAuE%2fOTLkVK2cdY8%2fs1600%2f21067_900x1350.jpg&ehk=si%2b6P2kw%2brn8es7b0X7N57shonMrKmeDsipo4qGoYH8%3d&risl=&pid=ImgRaw&r=0",
+          "language": "English",
+          "link": "https://en.wikipedia.org/wiki/Flashpoint_(comics)",
+          "Issues": "#10",
+          "title": "Flashpoint",
+          "year": 2011,
+          "Description" :"Flashpoint details an altered DC Universe in which only Barry Allen seems to be aware of significant differences between the regular timeline and the altered one, including Cyborg's place as the world's quintessential hero, much like Superman is in the main timeline, with Superman himself being held captive as a lab-rat by the United States government within an underground facility in Metropolis. In addition, Thomas Wayne is Batman, and a war between Wonder Woman and Aquaman has decimated western Europe."
+        },
+        {
+          "id": "002",
+          "author": "Geoff Johns",
+          "imageLink": "https://static.dc.com/dc/files/default_images/14771_900x1350.jpg?w=640",
+          "language": "English",
+          "link": "https://en.wikipedia.org/wiki/Blackest_Night",
+          "Issues": "#10",
+          "title": "Blackest Night",
+          "year": 2005,
+          "Description" :"Green Lanterns Ash and Saarek find the Black Central Battery at a reportedly classified location within Sector 666. After touching the battery, Saarek reports that their presence has awakened something. The two are killed when two monstrous hands emerge from below them as the battery calls 'flesh'.In Green Lantern Corps, a field of asteroids in an unknown region of space is depicted with the colors of the spectrum in the background. The asteroids, which are apparently the remains of the planet Xanshi, are shattered and a large quantity of black power rings move through them."
+        },
+        {
+          "id": "003",
+          "author": "Joe Hill",
+          "imageLink": "https://static.dc.com/dc/files/default_images/BM_LKOE_Jacket_Regular_CMYK_REV_5e629c2bab3a98.58795555.jpg?w=640",
+          "language": "Italian",
+          "link": "https://www.dc.com/graphic-novels/batman-last-knight-on-earth-2019/batman-last-knight-on-earth",
+          "Issues": "#12",
+          "title": "Batman: Last Knight on Earth",
+          "year": 2018,
+          "Description" :"Twenty years in the future, Bruce Wayne wakes up in Arkham Asylum. Young. Sane. And...he's never been Batman. So begins this sprawling tale of the Dark Knight as he embarks on a quest through a devastated DC landscape, featuring a massive cast of familiar faces from the DC Universe. As Batman tries to piece together the mystery of his past, he must unravel the cause of this terrible future and track down the unspeakable force that destroyed the world as he knew it..."
+        },
+        {
+          "id": "004",
+          "author": "Geoff Johns",
+          "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508630139i/34690728.jpg",
+          "language": "English",
+          "link": "https://en.wikipedia.org/wiki/Darkseid_War",
+          "Issues": "#18",
+          "title": "Darkseid War",
+          "year": 2015,
+          "Description" :"The dark secret of existence is that history has been destroyed and reborn over and over, in an endless repetition. As far as Metron is concerned, this is a cycle that must end. Metron was a being that observed the events of Flashpoint, Infinite Crisis, and Crisis on Infinite Earths. Metron is observing the DC Universe when he meets the Anti-Monitor."
+        },
+        {
+          "id": "005",
+          "author": "Geoff Johns",
+          "imageLink": "https://comicbookrealm.com/cover-scan/3594f5d233c4d23580563dbbe5395fb3/xl/dc-comics-batman-and-robin-issue-11.jpg",
+          "language": "English",
+          "link": "https://en.wikipedia.org/wiki/Batman_and_Robin_(comic_book)",
+          "Issues": "#26",
+          "title": "Batman and Robin ",
+          "year": 2009,
+          "Description" :"The main story of the comic series was made up of a series of three-issue story arcs. The first one, 'Batman: Reborn'0, was penciled by Frank Quitely. The second arc, 'Revenge of the Red Hood', was penciled by Philip Tan. The third arc, 'Blackest Knight', is penciled by Cameron Stewart on issues #7-9 of Batman and Robin (2010). The fourth arc, 'Batman vs. Robin', is penciled by Andy Clarke and contains issues #10-12. The fifth arc, penciled by Frazer Irving, is titled, 'Batman and Robin Must Die!', is the start of Batman: The Return of Bruce Wayne and the end of the arc started by Batman: Reborn. After Paul Cornell's run on issues #17-19, the next arc was written by Peter Tomasi and pencilled by Patrick Gleason, and was entitled 'Dark Knight, White Knight'."
+        },
+        {
+          "id": "006",
+          "author": "Scott Snyder",
+          "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545511953i/42436471.jpg",
+          "language": "English",
+          "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+          "Issues": "#6",
+          "title": "The Batman Who Laughs ",
+          "year": 2018,
+          "Description" :"Left rattled by the events of DARK NIGHTS: METAL, Bruce Wayne must come face to face with the nightmares spawned from the Dark Multiverse. But even though evil devoured evil in the collapse of Challengers Mountain, the Dark Knight still has his doubts. He discovers that the Batman Who Laughs not only survived the fight with The Joker at the end of METAL, but now he is enacting a sinister plan across the Multiverse—something both terrifying and oddly familiar. But when Bruce Wayne realizes the only way to stop this madman is to kill him, he must consider violating the very rule Batman won’t break…the same rule that created this insatiable villain—the Batman Who Laughs!."
+        },
+        {
+          "id": "007",
+          "author": "Geoff Johns",
+          "imageLink": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/1139851.jpg",
+          "language": "English",
+          "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga",
+          "Issues": "#8",
+          "title": "superman: brainiac",
+          "year": 2008,
+          "Description" :"In flashback, Brainiac is shown stealing the city of Kandor. In the present, the Daily Planet is having a staff meeting attended by Perry White, Lois Lane, Clark Kent, Jimmy Olsen, and Ron Troupe. Also present are Cat Grant and Steve Lombard, who have recently returned to the staff. Clark hears a mysterious noise with his super hearing and investigates as Superman. He discovers the noise is a Brainiac drone, sent to locate Superman. Superman promptly defeats the drone and takes it back to the Fortress of Solitude. With help from Supergirl it is revealed that Superman has never fought the real Brainiac, as all earlier encounters Superman had with Brainiac were with one of his probes. It is also revealed that Supergirl was on Krypton when Kandor was stolen, and because of this is terrified of Brainiac."
+        },
+        {
+          "id": "008",
+          "author": "Scott Snyder",
+          "imageLink": "https://th.bing.com/th/id/R.0769887ba4514170c759cae914c32886?rik=TYeR7OxXx7BZgg&riu=http%3a%2f%2fimages.comiccollectorlive.com%2fcovers%2fd9e%2fd9e107d8-ed49-43b5-81cc-ee175d1df679.jpg&ehk=ticioMSUlpM4sqv6G4l6YNqy%2bJkehq256AtHSNtuZtI%3d&risl=&pid=ImgRaw&r=0",
+          "language": "English",
+          "link": "https://en.wikipedia.org/wiki/Dark_Nights:_Metal",
+          "Issues": "#7",
+          "title": "Dark Nights: Metal",
+          "year": 2018,
+          "Description" :"Beyond our universe there is the Multiverse... and beneath the Multiverse is a nightmare realm where every fear that has ever been felt on our Earth becomes reality. Now an evil force as old as time wants to drag us down into the shadows, into the realm of never-ending terror."
+        },
+        {
+          "id": "009",
+          "author": "Geoff Johns",
+          "imageLink": "https://static.dc.com/dc/files/default_images/infinitecrisis_1_5b2946254d2383.10468231.jpg?w=640",
+          "language": "English",
+          "link": "https://en.wikipedia.org/wiki/Infinite_Crisis",
+          "Issues": "#7",
+          "title": "Infinite Crisis",
+          "year": 2015,
+          "Description" :"The plot begins when, in Crisis on Infinite Earths, Kal-L (the Superman of pre-Crisis Earth-Two), the Superboy of Earth Prime, Alexander Luthor, Jr. of pre-Crisis Earth-Three, and Lois Lane Kent of pre-Crisis Earth-Two voluntarily sequestered themselves in 'paradise'. DC officially began leading up to the new Crisis with a one-shot issue Countdown to Infinite Crisis, followed by four six-issue limited series that tied into and culminated in Infinite Crisis."
+        },
+        {
+          "id": "010",
+          "author": "Tom Taylor",
+          "imageLink": "https://i0.wp.com/batman-news.com/wp-content/uploads/2020/05/DCeased-Unkillables-3.jpg?fit=781%2C1200&quality=80&strip=info&ssl=1",
+          "language": "English",
+          "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
+          "Issues": "#6",
+          "title": "DCeased",
+          "year": 2019,
+          "Description" :"In the aftermath of a battle with the forces of Apokolips, Batman discovers that Cyborg has been kidnapped. On Apokolips, Cyborg is being tortured by DeSaad, who reveals that one-half of the Anti-Life Equation exists within his cybernetic body and that Darkseid intends to merge it with the half already in his possession. Darkseid summons the Black Racer, who is immediately restrained and has his essence extracted to keep Cyborg alive during the procedure. In merging the Anti-Life Equation together it becomes corrupted, manifesting itself as a techno-organic virus which infects Darkseid, causing him to go into a psychotic rampage, kill the Black Racer and leap into the core of Apokolips. DeSaad attempts to stop the virus spread by sending Cyborg back to Earth, but Darkseid unleashes the full power of his Omega Beams, obliterating the planet."
+        }
+        ],
+    "Users" :[
+        {
+            "ID" : 1,
+            "Name" : "Kavin",
+            "Email" : "kavin@gamil.com",
+            "Phone No" : 1234567890
+        }
+    ]
+}

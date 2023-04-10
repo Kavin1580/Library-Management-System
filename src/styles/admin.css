@@ -1,0 +1,44 @@
+
+.admin-home{
+  background-image: url("https://wallpaperaccess.com/full/4597276.jpg");
+  height: 100dvh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.admin {
+    margin: auto;
+   position: relative;
+   top: 40vh;
+    width: 300px;
+    color: rgb(0, 140, 255);
+    height: 200px;
+    animation:kavin 5s infinite;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+  }
+  input {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+.btn button {
+    padding: 8px;
+    color: #000000;
+    font-size: 16px;
+    background-color: rgb(55, 180, 225);
+
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+.btn button:hover {
+    background-color: #2d92ff;
+  }
+  

@@ -1,0 +1,181 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #0c0c0c;
+    background-color: #ffffff;
+  }
+  .landingpage{
+    background-image: url(/public/images/back.jpeg) ;
+    height: auto;
+  }
+*{
+  transition: 1.5s;
+}
+  
+.landingpage {
+    height: auto;
+  }
+.span h1{
+  color:rgb(4, 117, 255);
+  font-size: 2.5rem;
+}
+  
+  /*header section*/
+  .header_section {
+    background-color: #000000;
+    align-items: center;
+  }
+  
+  .header_section {
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+.navbar {
+    display: flex;
+    align-items:center ;
+    box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
+    /* justify-content: space-around; */
+}
+.navbar-logo{
+    display: flex;
+    align-items:center ;
+}
+.span{
+    margin-left: 20px;
+}
+.navbar-li ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+.navbar-nav li a{
+    margin-right: 10px;
+    color: white;
+}
+ a{
+    text-decoration: none;
+ }
+.navbar-nav a:hover {
+    text-decoration: overline;
+    color:yellow;
+  }
+/* end navbar */
+
+
+  .slider_section {
+    background-image: url("https://pixelz.cc/wp-content/uploads/2017/11/dc-comic-heroes-uhd-4k-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 70px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    height: 100%;
+    top: 70px;
+  }
+  .detail-box{
+    height: 280px;
+  }
+  
+  .slider_section .detail-box {
+    color: #fefdfc;
+  }
+  
+  .slider_section .detail-box h1 {
+    color: #ffff00;
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    font-weight: 400;
+  }
+  
+  .slider_section .detail-box span {
+    color: #fefdfc;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+.detail-box p {
+    color: #fefdfc;
+    margin-top: 25px;
+}
+  .slider_section .detail-box .btn-box {
+    margin-top: 45px;
+  }
+  
+  .slider_section .detail-box .btn-box .btn-1 {
+    display: inline-block;
+    padding: 12px 45px;
+    background-color: #36e1f8;
+    color: #050505;
+    border-radius: 0;
+    text-transform: uppercase;
+    margin-right: 10px;
+  }
+  
+  .slider_section .detail-box .btn-box .btn-1:hover {
+    background-color: #03b8ff;
+  }
+  
+  .slider_section .detail-box .btn-box .btn-2 {
+    display: inline-block;
+    padding: 12px 42px;
+    background-color: #fefdfc;
+    color: #050505;
+    border-radius: 0;
+    text-transform: uppercase;
+  }
+  .btn a {
+    color: rgb(255, 255, 255);
+  }
+  
+  .slider_section .detail-box .btn-2:hover {
+    background-color: #f8f0e9;
+  }
+  .btn a{
+    border: 1px solid yellow;
+    margin-left: 10px;
+   border-radius: 20px; 
+   padding: 10px;
+  }
+  .btn a:hover{
+      background-color: white;
+      color: #ff0000;
+  }
+  /* offer start */
+  .offer_section .img-box {
+    margin-top: 90px;
+    background-color: #eeeded;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 25px;
+    flex-direction: row;
+    width: 100%;
+  }
+  .detail-box1 h6:hover{
+    color: #e6e600;
+  }
+  .detail-box1 h4:hover{
+    color: #e6e600;
+  }
+  .detail-box1 p:hover{
+   color:rgb(81, 255, 0);
+  }
+  .detail-box1 p{
+border: 1px solid transparent;
+color: #000000;
+/* height: 100%; */
+  }
+  .offer_section .content-box:hover .img-box {
+    background-color:skyblue;
+  }
+  .offer_section .content-box .detail-box h6 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .detail-box p{
+    color: #ffffff;
+  }
