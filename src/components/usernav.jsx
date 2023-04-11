@@ -15,7 +15,6 @@ const Navbar = () => {
                 <ul>
                     <li><Link to={"/user/"}>Home</Link> </li>
                     <li><Link to={"/user/book-list"}>Book List</Link> </li>
-                    <li><Link to={"/user/add-user"}> Add User</Link> </li>
                     <li><Link to={"/"}>Logout</Link> </li>
                 </ul>
             </div>

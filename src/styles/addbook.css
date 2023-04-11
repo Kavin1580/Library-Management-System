@@ -1,9 +1,13 @@
 .book-home{
   background-image: url(/public/images/addbooks.jpg);
-  height: 100dvh;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
+
 }
 .book{
     margin: auto;

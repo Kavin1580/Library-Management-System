@@ -5,6 +5,7 @@ import AdminNav from "./adminnav";
 import AddBook from "./Addbook";
 import AddUser from "./adduser";
 import ReadBook from "./readbooks";
+import UserList from "./user-list";
 const AdminPortal = () => {
     return ( 
         <div className="adminPortal">
@@ -14,6 +15,7 @@ const AdminPortal = () => {
                 <Route path="/book-list" element={<AdminBook/>}/>
                 <Route path="/add-book" element={<AddBook/>}/>
                 <Route path="/add-user" element={<AddUser/>}/>
+                <Route path="/user-list" element={<UserList/>}/>
                 <Route path="/book-list/:id" element={<ReadBook/>}/>
             </Routes>
         </div>
