@@ -22,7 +22,7 @@ const LandingPage = () => {
                     <div className="col">
                         <div className="detail-box">
                             <h1>
-                                Library Management System <br />
+                                Comic Library<br />
                                 <span>
                                     Read Anywher Anytime
                                 </span>

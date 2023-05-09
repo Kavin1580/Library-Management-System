@@ -12,7 +12,11 @@ const AdminBook = () => {
         fetchData();
     },[book])
     let deleteBook=(id)=>{
-     fetch(`ttp://localhost:2000/books/${id}`,{method:'DELETE'})
+     fetch(`http://localhost:2000/books/${id}`,{method:'DELETE'})
+    //  {book.map(data=>{
+    //     alert({data.title})
+    //  })}
+     
     }
     return (
         <div className="booklist">
